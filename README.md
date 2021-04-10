@@ -1,5 +1,4 @@
 # LobuznovDS
  Projects: Education / Job / Own
 
-## yandex-praktikum-projects
-Repository consists of educational projects by Yandex.Practikum Data Science.
+Folder consists of educational projects by Yandex.Practikum Data Science.
